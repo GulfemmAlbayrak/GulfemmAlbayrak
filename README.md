@@ -1,19 +1,33 @@
-### Hi there 👋, I'm Gülfem Albayrak
-#### iOS Developer
+<h2 align="center">Hi there 👋, I'm Gülfem Albayrak</h2>
+<h3 align="center">iOS Developer</h3>
+<h3 align="center">I'm from Turkey and I'm a 4rd year electrical and electronics engineering student. I am eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. I'm interested in iOS and I want to continue my career as an iOS developer.</h3>
+<h2>👩🏼‍💻 About Me</h2>
 <img align="right" alt = "Coding" width="200" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif">
-I'm from Turkey and I'm a 4rd year electrical and electronics engineering student. I am eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. I'm interested in iOS and I want to continue my career as an iOS developer.
 
-- 💻 I’m currently working as a **Swift Bootcamp Trainee** at **Turkcell Geleceği Yazanlar** with <a href=”https://www.linkedin.com/in/kerimcaglar/”>Kerim ÇAĞLAR</a>
-
+- 💻 I’m currently working as a **Swift Bootcamp Trainee** at **Turkcell Geleceği Yazanlar** with [Kerim ÇAĞLAR](https://www.linkedin.com/in/kerimcaglar/)
+- 👁️ Interested in iOS Development
+- 🎯 Personal Goal : Always be better than yesterday
+- 📝 [Resume] ( https://drive.google.com/drive/u/0/my-drive/ )
+- 🏐 I love playing volleyball
 - 📫 How to reach me **gulfemalbayrak@gmail.com**
 
 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GulfemmAlbayrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gulfemalbayrak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gulfemalbayrak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gulfemalbayrak)  
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://twitter.com/gulfemalbayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulfemalbayrak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gulfemalbayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulfemalbayrak" height="30" width="40" /></a>
+<a href="https://instagram.com/gulfemalbayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulfemalbayrak" height="30" width="40" /></a>
+<a href="https://discord.gg/690299206057066679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690299206057066679" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+
 
 ![Gülfem's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulfemmAlbayrak)
