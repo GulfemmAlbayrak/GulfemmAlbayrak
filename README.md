@@ -1,19 +1,21 @@
-<h2 align="center">Hi there 👋, I'm Gülfem Albayrak</h2>
+<h1 align="center">Hi there 👋, I'm Gülfem Albayrak</h1>
 <h2 align="center">iOS Developer</h2>
-<h3 align="center">I'm from Turkey and I'm a 4rd year electrical and electronics engineering student. I am eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. I'm interested in iOS and I want to continue my career as an iOS developer.</h3>
+<h3 align="center">I'm from Turkey and I'm a senior Electrical and Electronics Engineering student. I am eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. </h3>
 
 
 
 <h2>👩🏼‍💻 About Me</h2>
-<img align="right" alt = "Coding" width="200" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif">
+<img align="right" alt = "Coding" width="150" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif">
 
 
 
-- 💻 I’m currently working as a **Swift Bootcamp Trainee** at **Turkcell Geleceği Yazanlar** with [Kerim ÇAĞLAR](https://www.linkedin.com/in/kerimcaglar/)
-- 👁️ Interested in iOS Development
+- 🌱 I'm currently learning Swift and iOS Development
+- 👁️ Interested in mobile development
 - 🎯 Personal Goal : Always be better than yesterday
 - ⚡️ Fun fact: I love playing volleyball
 - 📫 How to reach me **gulfemalbayrak@gmail.com**
+
+
 
 
 
