@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Gülfem Albayrak</h1>
-<h2 align="center">iOS Developer</h2>
+
 <h3 align="center">I'm from Turkey and I'm a senior Electrical and Electronics Engineering student. I'm eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. </h3>
 
 
