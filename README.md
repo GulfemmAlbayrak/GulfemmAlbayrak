@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gülfem Albayrak</h1>
 
-<h3 align="center">I'm from Turkey and I'm a senior Electrical and Electronics Engineering student. I'm eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. </h3>
+<h3 align="center">I'm from Turkey and I'm a new graduate Electrical and Electronics Engineer. I'm eager to learn new things, friendly, self-motivated, problem solving and result oriented team player. </h3>
 
 
 
@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning Swift and iOS Development
 - 👁️ Interested in mobile development
 - 🎯 Personal Goal : Always be better than yesterday
-- ⚡️ Fun fact: I love playing volleyball
+- ⚡️ Fun fact: I love playing tennis
 - 📫 How to reach me **gulfemalbayrak@gmail.com**
 
 
